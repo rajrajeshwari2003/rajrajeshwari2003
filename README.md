@@ -43,7 +43,7 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [linkedin.com/in/rajrajeshwari-khatawate](https://www.linkedin.com/in/rajrajeshwari-khatawate/)
+- LinkedIn: [linkedin.com/in/rajrajeshwari-khatawate](https://www.linkedin.com/in/rajrajeshwari-khatawate-/)
 - GitHub: [github.com/rajrajeshwari2003](https://github.com/rajrajeshwari2003)
 
 ---
