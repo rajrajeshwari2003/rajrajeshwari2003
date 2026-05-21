@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Rajrajeshwari Khatawate
 
-<!--
-**rajrajeshwari2003/rajrajeshwari2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI Engineer | Learning Python, Data Science & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Engineering Student
+- 🤖 Interested in AI, Machine Learning & Data Science
+- 🐍 Learning Python and building projects
+- 📚 Improving my coding skills every day
+- 🎯 Goal: Become an AI Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Machine Learning
+- Data Science
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+- 🩺 Health Risk Predictor AI
+- 👗 AI Outfit Recommendation System
+
+---
+
+## 📖 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- AI Model Building
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/rajrajeshwari-khatawate
+- GitHub: github.com/rajrajeshwari2003
+
+---
+
+⭐ Always learning and building something new!
